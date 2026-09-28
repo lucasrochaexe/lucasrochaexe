@@ -1,6 +1,6 @@
 # Olá, eu sou Lucas Rocha 👋
 
-Sou estudante do 3º semestre de Análise e Desenvolvimento de Sistemas e atuo na intersecção entre hardware de pagamentos e soluções de software. 
+Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas e atuo na intersecção entre hardware de pagamentos e soluções de software. 
 
 Tenho forte vivência comercial e técnica no setor de adquirência. Já atuei como promotor de negócios (Vero) e atualmente trabalho como técnico de instalação e manutenção de máquinas de cartão na região Sul do RS, atendendo uma média de 20 lojistas por dia. Essa rotina me permite entender exatamente as dores do varejo no momento do checkout.
 
